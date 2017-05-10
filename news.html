@@ -11,7 +11,7 @@
 		<meta property="og:image" content="img/carrusel1.jpg">
 		<meta property="og:description" content="Web de noticias sobre el alquiler vacacional en las Islas Baleares">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="alternate" type="application/rss+xml" title="rss de l'aplicació" href="url-al-fitxer-rss">
+		<link rel="alternate" type="application/rss+xml" title="rss de l'aplicació" href="xml/rss.xml">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 		<link rel='stylesheet' media='screen and (min-width: 961px)' href='css/d.css'>
@@ -60,17 +60,18 @@
 
 		<main class="principal">
 			<div class="container">
-				<div class="noticias">
+				<aside class="publicidad">
+  					<img id="imgpubli" src="img/publicidad.jpg" class="img-responsive" alt="publicidad">
+				</aside>
+				<section class="noticias">
 					<a href="xml/rss.xml">
 						<img src="https://www.w3schools.com/xml/pic_rss.gif" width="36" height="14">
 					</a>
-				<br>
+					<br>
 					<div class="well well-lg">
 						<h4>Bienvenidos a esta web donde se pueden ver las últimas noticias sobre todo lo relacionado con el alquiler vacacional en las Islas Baleares</h4>
 					</div>
-					<aside class="publicidad">
-  						<img id="imgpubli" src="img/publicidad.jpg" class="img-responsive" alt="publicidad">
-					</aside>
+
 					<div class="row">
 						<div class="col-sm-3 noticia"><br>
 							<h3 class="titulo">Investigadores de la UIB dicen que el alquiler turístico no dispara los precios</h3>
@@ -90,9 +91,8 @@
 					</div>
 					<div id="noticiasjson">
 					</div>
-				</div>
+				</section>
 			</div>
-
 		</main>
 		<div class="boton_vermas">
 			<button class="btn btn-primary" role="button" id="vermas">Ver más noticias...</button>
