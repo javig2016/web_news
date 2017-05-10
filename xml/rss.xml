@@ -1,16 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<tittle>	</tittle>
-		<link> </link>
-		<description> </description>
+		<title>Alquiler vacacional en las Islas Baleares</title>
+		<link>https://news.html</link>
+		<description>Web de noticias sobre el alquiler vacacional en las Islas Baleares</description>
 		<item>
-			<tittle>	</tittle>
-			<link> </link>
-			<description> </description>
-			<copyright> </copyright>
+			<title>Investigadores de la UIB realizan estudio sobre alquiler vacacional</title>
+			<link>https://news1.html</link>
+			<description>Estudio en la UIB sobre alquiler vacacional</description>
+			<guid>https://news.html/xml/item0001</guid>
+			<author>alberto.magro@diariodemallorca.es (Alberto Magro)</author>
+			<atom:link href="https://news.html/rss.xml" rel="self" type="application/rss+xml" />
 		</item>
-
+		<item>
+			<title>El alquiler vacacional, una nueva fiebre del oro</title>
+			<link>https://news2.html</link>
+			<description>Opinión sobre fuente de riqueza con alquiler vacacional</description>
+			<guid>https://news.html/xml/item0002</guid>
+			<author>jose.valdivia@diariodemallorca.es (José Valdivia)</author>
+			<atom:link href="https://news.html/rss.xml" rel="self" type="application/rss+xml" />
+		</item>
+		<item>
+			<title>Competencia se pone del lado de los propietarios de viviendas turísticas en la guerra del alquiler vacacional</title>
+			<link>https://news3.html</link>
+			<description>Lucha entre hosteleria y viviendas vacacionales</description>
+			<guid>https://news.html/xml/item0003</guid>
+			<author>pmartinez.almeida@idealista.com (Martinez Almeida)</author>
+			<atom:link href="https://news.html/rss.xml" rel="self" type="application/rss+xml" />
+		</item>
 	</channel>
-
 </rss>
