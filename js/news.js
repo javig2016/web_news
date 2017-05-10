@@ -34,7 +34,7 @@ function ponerNoticias()
             $("<div/>", {
                 "class": "row",
                 html: items.join("")
-            }).appendTo(".noticias");
+            }).appendTo("#noticiasjson");
         });
         limite++;
     }
