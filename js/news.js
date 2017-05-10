@@ -24,7 +24,7 @@ function ponerNoticias()
                 str = "";
                 str += "<div class='col-sm-3 noticia'>";
                 str += "<h3 class='titulo'>" + noticia.titulo + "</h3>";
-                str += "<img class='img-responsive src=\"" + noticia.imagen + "\" />";
+                str += "<img class='img-responsive' src=\"" + noticia.imagen + "\" />";
                 str += "<p class='descripcion'>" + noticia.descripcion + "</p>"
                 str += "<h4 class='fecha'>" + noticia.datetime + "</h4>";
                 str += "</div>";
