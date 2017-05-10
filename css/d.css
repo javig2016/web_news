@@ -1,0 +1,50 @@
+﻿/*.noticia .titulo{
+	color: blue;
+}*/
+
+.boton_vermas{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%;
+
+}
+
+
+.publicidad{
+	font-size: = 20px;
+}
+
+aside.publicidad{
+  float: right;
+  width: 300px;
+  height: 100%;
+
+}
+
+.noticias{
+  width: 100%;
+  margin-left: -300px;
+  height: auto;
+  float: right;
+  padding: 0 25px;
+}
+
+/*.cargar{
+  width: 100%;
+  margin-left: -300px;
+  height: auto;
+  float: right;
+  padding: 0 25px;
+}*/
+
+.imagenew1{
+	width: 100%;
+  height: auto;
+}
+
+.imagenew2{
+  width: 100%;
+  height: auto;
+}
