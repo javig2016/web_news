@@ -15,6 +15,11 @@ $(window).scroll(function(){
 
 function ponerNoticias()
 {
+    if(limite >= archivos.length)
+    {
+        alert("No hay más noticias :)");
+    }
+
     if(limite < archivos.length)
     {
         $.getJSON(archivos[limite], function(jsonObject){
@@ -37,11 +42,5 @@ function ponerNoticias()
             }).appendTo("#noticiasjson");
         });
         limite++;
-    }
-    if(limite >= archivos.length)
-    {
-        // $("#miboton").off("click", ponerNoticias);
-        // $("#miboton").prop("disabled", true);
-        alert("No hay más noticias :)");
     }
 }
