@@ -19,8 +19,10 @@ Se han seguido usando la combinación de: HTML, CSS, XML, y añadiendo lo indica
 6. Se comprueba el correcto funcionamiento de la web en los diferentes tipos de dispositivos a visualizar.
 7. Ahora se procede a realizar la revisión de los documentos creados, tanto páginas html como css y rss, mediante las herramientas de validación de W3C.
 
-
 A continuación se pasan a indicar características especiales a reseñar de la práctica:
+### * RSS:
+Se han seguido los pasos indicados en [**_w3schools_**](https://www.w3schools.com) sobre la creación de un archivo rss y se ha implementado en la web.
+
 ### * Imágenes y vídeos responsive:
 Las imágenes y vídeos de la web han sido configurados para su correcta visualización de forma "responsive". Las imágenes a su vez han sido optimizadas mediante la propia herramienta de dibujo GIMP y el programa PNGGauntlet.
 
