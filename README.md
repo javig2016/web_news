@@ -20,6 +20,9 @@ Se han seguido usando la combinación de: HTML, CSS, XML, y añadiendo lo indica
 7. Ahora se procede a realizar la revisión de los documentos creados, tanto páginas html como css y rss, mediante las herramientas de validación de W3C.
 
 A continuación se pasan a indicar características especiales a reseñar de la práctica:
+### Carrusel de imágenes:
+Revisando las posibilidades de Bootsrap se ha encontrado la posibilidad de implementar un carrsuel de imágenes en la web de inicio para dar dar un aspecto visual más enriquecido a la web.
+
 ### * RSS:
 Se han seguido los pasos indicados en [**_w3schools_**](https://www.w3schools.com) sobre la creación de un archivo rss y se ha implementado en la web.
 
@@ -31,18 +34,18 @@ Se ha verificado la adaptación al proyecto para la visualización de la web en 
 La configuración ha sido trasladada a todos los documentos html del proyecto.
 Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
 
-### * Versión JavaScript:
-El proyecto se ha puesto en funcionamiento gracias al lenguaje JavaScript del que se han extraído  las funciones y herramientas para poder conectar las preguntas, respuestas, opciones y tipos de cuestiones del formulario XML, con el formulario en HTML.
+### * Versión JQuery:
+El proyecto usa bastante dichas librerias en varios elementos de la web, a parte de la creación del archivo correspondiente para poder implementar la información de los archivos JSon en la página web.
 
-### * Versión XPATH y XSLT:
-Mediante estos lenguajes se ha conseguido que en principio con XPATH, alcancemos el archivo XML y no se necesite de otros elementos como los empleados en la unidad 3 para resolver las diferentes respuestas posibles de cada pregunta del cuestionario. Y con XSLT se ha cambiado la forma de presentar el propio XML en un navegador web y en la forma de presentar los resultados del cuestionario formulado.
+### * Boostrap:
+Mediante estas librerias se ha conseguido un aspecto visual muy logrado sin implementar mucho código de css, lo que lleva un ahorro de lenguaje en ese aspecto y de tiempo de implementación.
 
 ### * Versión identada:
 La versión identada se corresponde con la master, por lo que no se ha creado ninguna rama para la indicada. Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. 
 
 ### * Versión reducida (_minify_):
 Esta otra versión se ha realizado con la ayuda de la siguiente web [HTML Minifier](http://www.willpeavy.com/minifier/), que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como minify.
-Hay que tener en cuenta que los archivos de javascript (questions.js), questions.xml, questions.dtd, questions.xsl y transform.xsl no se han reducido, debido a que provocaban problemas a la hora de verificar su correcto funcionamiento. Se ha verificado su correcto funcionamiento en el navegador, pero en la web RawGit no funciona.
+Hay que tener en cuenta que los archivos de JQuery (news.js) y rss.xml, no se han reducido, debido a que provocaban problemas a la hora de verificar su correcto funcionamiento. Se ha verificado su correcto funcionamiento en el navegador, pero en la web RawGit no funciona.
 
 
 ##Enlaces a fuentes de las imágenes:
