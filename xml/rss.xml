@@ -11,7 +11,7 @@
 			<link>https://cdn.rawgit.com/javig2016/web_news/4375032b/news1.html</link>
 			<description><![CDATA[<img src='https://raw.githubusercontent.com/javig2016/web_news/4375032b/img/img_new1thumb.jpg' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Estudio en la UIB sobre alquiler vacacional</p>]]></description>
 			<guid>https://cdn.rawgit.com/javig2016/web_news/4375032b/xml/item0001</guid>
-			<media:thumbnail url="https://raw.githubusercontent.com/javig2016/web_news/4375032b/img/img_new1.jpg" width='155' height='155' />
+			<media:thumbnail url="https://raw.githubusercontent.com/javig2016/web_news/4375032b/img/img_new1thumb.jpg" width='155' height='155' />
 			<author>alberto.magro@diariodemallorca.es (Alberto Magro)</author>
 			<atom:link href="https://news.html/rss.xml" rel="self" type="application/rss+xml" />
 		</item>
