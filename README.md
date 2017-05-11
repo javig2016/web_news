@@ -35,10 +35,13 @@ La configuración ha sido trasladada a todos los documentos html del proyecto.
 Para ello se han usado 2 archivos css, uno denominado *__d.css__*, que se usará para la página web normal, en navegadores de ordenadores con unas resoluciones normales, y otro archivo denominado *__m.css__*, que se usará cuando el navegador tenga una resolución para dispositivos móviles.
 
 ### * Versión JQuery:
-El proyecto usa bastante dichas librerias en varios elementos de la web, a parte de la creación del archivo correspondiente para poder implementar la información de los archivos JSon en la página web.
+El proyecto usa bastante dichas librerías en varios elementos de la web, a parte de la creación del archivo correspondiente para poder implementar la información de los archivos JSon en la página web.
 
 ### * Boostrap:
-Mediante estas librerias se ha conseguido un aspecto visual muy logrado sin implementar mucho código de css, lo que lleva un ahorro de lenguaje en ese aspecto y de tiempo de implementación.
+Mediante estas librerías se ha conseguido un aspecto visual muy logrado sin implementar mucho código de css, lo que lleva un ahorro de lenguaje en ese aspecto y de tiempo de implementación.
+
+### * Metadatos:
+La web también se ha implementado con metadatos para convertirla en un objeto con unos datos que puedan utilizarse por otras herramientas. Se ha utilizado Open Graph Protocol (OGP), una serie de datos sobre la web, que aparecen implementados en los html. Para revisar su implementación se ha usado la herramienta de facebook para desarrolladores: [facebook developers](https://developers.facebook.com/tools/debug/).
 
 ### * Versión identada:
 La versión identada se corresponde con la master, por lo que no se ha creado ninguna rama para la indicada. Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. 
