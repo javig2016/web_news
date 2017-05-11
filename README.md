@@ -11,7 +11,7 @@ Se han seguido usando la combinación de: HTML, CSS, XML, y añadiendo lo indica
 
 
 ##Fases del proyecto:
-1. Se ha realizado un diseño y bocetos de la web en papel y bolígrafo para ir viendo como se desea la web, también se ha escrito pseudocódigo y escrito los archivos y elementos a usar. También se ha pensado el tema de la web y localizado información para realizar la web y sus noticias correspondientes. Estos documentos se han escaneado y se encuentran en la carpeta [bocetos](https://github.com/javig2016/bocetos) de github.
+1. Se ha realizado un diseño y bocetos de la web en papel y bolígrafo para ir viendo como se desea la web, también se ha escrito pseudocódigo y escrito los archivos y elementos a usar. También se ha pensado el tema de la web y localizado información para realizar la web y sus noticias correspondientes. Estos documentos se han escaneado y se encuentran en la carpeta [bocetos](https://github.com/javig2016/web_news/tree/master/bocetos) de github.
 2. Se inicia el proceso de trasladar los bocetos a la web, creando los archivos y obteniendo enlaces a vídeos e imágenes solicitados para las noticias.
 3. Se crean los archivos json específicos para cada grupo de noticias.
 4. A continuación se prepara el archivo JQuery para su implementación con todas las características solicitadas. Revisando a continuación su correcto funcionamiento con los archivos JSon y con la implementación en la web.
