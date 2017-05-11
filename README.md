@@ -27,7 +27,7 @@ Revisando las posibilidades de Bootsrap se ha encontrado la posibilidad de imple
 Se han seguido los pasos indicados en [**_w3schools_**](https://www.w3schools.com) sobre la creación de un archivo rss y se ha implementado en la web.
 
 ### * Imágenes y vídeos responsive:
-Las imágenes y vídeos de la web han sido configurados para su correcta visualización de forma "responsive". Las imágenes a su vez han sido optimizadas mediante la propia herramienta de dibujo GIMP y el programa PNGGauntlet.
+Las imágenes y vídeos de la web han sido configurados para su correcta visualización de forma "responsive". Las imágenes a su vez han sido optimizadas mediante la propia herramienta de dibujo [GIMP](https://www.gimp.org/) y el programa PNGGauntlet.
 
 ### * Versión dispositivos móviles:
 Se ha verificado la adaptación al proyecto para la visualización de la web en dispositivos móviles, de esa manera se observa el correcto funcionamiento y la posibilidad de ver todo correctamente.
@@ -45,20 +45,9 @@ La versión identada se corresponde con la master, por lo que no se ha creado ni
 
 ### * Versión reducida (_minify_):
 Esta otra versión se ha realizado con la ayuda de la siguiente web [HTML Minifier](http://www.willpeavy.com/minifier/), que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como minify.
-Hay que tener en cuenta que los archivos de JQuery (news.js) y rss.xml, no se han reducido, debido a que provocaban problemas a la hora de verificar su correcto funcionamiento. Se ha verificado su correcto funcionamiento en el navegador, pero en la web RawGit no funciona.
+Hay que tener en cuenta que los archivos de JQuery (news.js) y rss.xml, no se han reducido, debido a que provocaban problemas a la hora de verificar su correcto funcionamiento. Por lo que no se han usado.
 
 
-##Enlaces a fuentes de las imágenes:
-Todas las imágenes que se han usado son las mismas de la unidad 3.
-
-Imagen logo universidad:
-[Imagen logo](http://res.freestockphotos.biz/pictures/16/16246-illustration-of-a-graduation-cap-pv.png)
-
-Imagen rectorado:
-[Imagen rectorado](https://s.iha.com/2556200015384/Alquiler-vacaciones-encanto-Campos-SEGLES_15.jpegg)
-
-
-Su retoque se ha realizao con la herramienta de dibujo [GIMP](https://www.gimp.org/).
 
 ***
 ##Fuentes de ayuda:
